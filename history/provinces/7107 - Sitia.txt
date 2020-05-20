@@ -1,0 +1,25 @@
+#BT Balkans reoverhaul
+
+owner = CRT
+controller = CRT
+add_core = CRT
+culture = cretan_culture
+religion = orthodox
+capital = "Sitia"
+base_tax = 2
+base_production = 1
+base_manpower = 1
+trade_goods = fruit
+is_city = yes
+hre = no
+
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = muslim
+discovered_by = persian_btc
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = western

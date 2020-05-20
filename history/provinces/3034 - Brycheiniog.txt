@@ -1,0 +1,22 @@
+#3034 - Brycheiniog
+#Region - Britain
+#Area - Wales
+
+owner = WLS
+controller = WLS
+culture = welsh
+religion = catholic
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = wool
+base_manpower = 1
+capital = "Brecon"
+is_city = yes
+add_core = WLS
+
+discovered_by = western
+discovered_by = muslim
+discovered_by = persian_btc
+discovered_by = ottoman
+discovered_by = eastern

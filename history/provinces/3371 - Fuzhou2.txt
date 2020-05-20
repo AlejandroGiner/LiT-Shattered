@@ -1,0 +1,29 @@
+# 3371 - Fuzhou
+
+owner = NNG
+controller = NNG
+add_core = NNG
+culture = gan
+religion = mahayana
+capital = "Fuzhou"
+trade_goods = rice
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 2
+is_city = yes
+
+discovered_by = chinese
+discovered_by = japanese_btc
+discovered_by = korean_btc
+discovered_by = indochinese
+discovered_by = malay_group
+discovered_by = nomad_group
+
+1601.1.1 = { discovered_by = SPA }
+
+1645.6.1 = {
+	owner = QNG
+	controller = QNG
+	add_core = QNG
+}

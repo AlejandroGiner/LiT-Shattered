@@ -1,0 +1,43 @@
+#3013 - Tolmezzo
+
+owner = AQU
+controller = AQU
+add_core = AQU
+culture = friulan
+religion = catholic
+capital = "Tolmezzo"
+base_tax = 2
+base_production = 2
+base_manpower = 2
+trade_goods = naval_supplies			#notable wood production, like Cadore. Also has lots of Livestock, and even Paper
+is_city = yes
+hre = yes
+
+discovered_by = western
+discovered_by = muslim
+discovered_by = persian_btc
+discovered_by = ottoman
+discovered_by = eastern
+
+1508.12.10 = { add_core = HAB } # War of the League of Cambrai 
+1509.6.1 = { controller = HAB } # Venice collapses
+1511.6.23 = { owner = HAB } # Austria switches sides
+1513.3.23 = { owner = VEN controller = HAB } # Venice switches sides
+1516.12.1 = { controller = VEN remove_core = HAB } # Treaty of Brussels
+1797.10.17 = {
+	owner = HAB
+	controller = HAB
+	add_core = HAB
+} # Treaty of Campo Formio
+1805.12.26 = {
+	owner = ITA
+	controller = ITA
+	add_core = ITA
+	remove_core = HAB
+} # Treaty of Pressburg
+1814.4.11 = {
+	owner = HAB
+	controller = HAB
+	add_core = HAB
+	remove_core = ITA
+} # Treaty of Fontainebleau, Napoleon abdicates unconditionally

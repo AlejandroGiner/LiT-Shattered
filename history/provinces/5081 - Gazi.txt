@@ -1,0 +1,25 @@
+#5081 - Gazi
+
+owner = DRJ
+controller = DRJ
+add_core = DRJ
+culture = bulgarian
+religion = orthodox
+capital = "Shumen"
+base_tax = 2
+base_production = 1
+base_manpower = 1
+trade_goods = wine			#Nikicaga suggested a NE bulgarian province has wine, and this suits best.
+is_city = yes
+hre = no
+
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = persian_btc
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = western

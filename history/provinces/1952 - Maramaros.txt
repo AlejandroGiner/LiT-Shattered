@@ -1,0 +1,30 @@
+#1952 - Máramaros
+
+latent_trade_goods = {
+	oil
+}
+
+owner = ZKR
+controller = ZKR 
+culture = rusyn
+religion = orthodox
+capital = "Huszt"
+trade_goods = naval_supplies
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+fort_15th = yes
+add_core = ZKR
+
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = persian_btc
+discovered_by = ottoman

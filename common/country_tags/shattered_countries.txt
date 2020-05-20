@@ -1,0 +1,2 @@
+CLI = "countries/Hlai.txt"
+MAC = "countries/Macedonia.txt"

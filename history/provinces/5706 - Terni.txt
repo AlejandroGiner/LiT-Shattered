@@ -1,0 +1,31 @@
+#5706 - Terni
+
+owner = TNR
+controller = TNR
+add_core = TNR
+culture = umbrian
+religion = catholic
+capital = "Terni"
+base_tax = 4
+base_production = 3
+base_manpower = 2
+trade_goods = iron # famous Ferriera ironworks. Could also be grain or paper
+is_city = yes
+hre = no
+
+discovered_by = persian_btc
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+
+#1564.1.1 = { add_local_autonomy = -30 }	#Technically this is correct, but giving it to Papal States directly in 1444 to keep it contiguous for now
+1750.1.1 = { add_core = ITA } 
+1809.4.10 = { controller = FRA } # Occupied by French troops
+1809.10.14 = { owner = FRA add_core = FRA } # Treaty of Schönbrunn
+1814.4.11 = {
+	owner = PAP
+	controller = PAP
+	remove_core = FRA
+} # Treaty of Fontainebleau, Napoleon abdicates unconditionally
+#

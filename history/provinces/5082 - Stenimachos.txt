@@ -1,0 +1,25 @@
+#5082 - Stenimachos
+
+owner = TNV
+controller = TNV
+add_core = TNV
+culture = greek			#Per wiki 'The town was inhabited predominantly by Greeks up to the post-World War I population exchanges between Bulgaria and Greece.'. Normally I'm dubious about claims like this, but Greeks were definitely the dominant power throughout the region at Ottoman conquest, so I'm going with it.
+religion = orthodox
+capital = "Stenimachos"			#Asenovgrad
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = wool
+is_city = yes
+hre = no
+
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = persian_btc
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = western

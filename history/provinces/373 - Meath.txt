@@ -1,0 +1,27 @@
+#373 - Meath
+#Region - Ireland
+#Area - Leinster
+
+owner = MTH
+controller = MTH
+add_core = MTH
+culture = anglo_irish
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 2
+base_manpower = 2
+trade_goods = beer
+capital = "Dublin"
+is_city = yes
+
+fort_15th = yes
+
+discovered_by = western
+discovered_by = muslim
+discovered_by = persian_btc
+discovered_by = ottoman
+discovered_by = eastern
+
+extra_cost = 8
+center_of_trade = 1
