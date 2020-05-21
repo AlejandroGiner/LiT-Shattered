@@ -2,9 +2,9 @@
 #Region - Scandinavia
 #Area - Skaneland
 
-add_core = DAN
-owner = DAN
-controller = DAN
+add_core = GTA
+owner = GTA
+controller = GTA
 culture = danish
 religion = catholic
 hre = no

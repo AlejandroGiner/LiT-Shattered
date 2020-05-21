@@ -1,0 +1,21 @@
+#3261 - Shiraki
+
+owner = KAH
+controller = KAH
+culture = georgian
+religion = orthodox
+capital = "Dedoplistsqaro"
+trade_goods = grain
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = KAH
+
+discovered_by = muslim
+discovered_by = persian_btc
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = western
+discovered_by = nomad_group
